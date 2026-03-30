@@ -5,6 +5,7 @@ Email Me 👉 ✉️ **vinaykumarmandal847227@gmail.com** For Collaboration/Proj
 
 - 🌱 **I’m currently learning:** AI/ML
 - 📫 **How to reach me:** vinaykumarmandal847227@gmail.com
+- 👋 **Portfolio:** https://vkmandalportfolio.netlify.app/
 - 😄 **Pronouns:** vinay
 <!-- Snake Game Repo View -->
 
