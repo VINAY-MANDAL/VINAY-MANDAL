@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Vinay Kumar Mandal
+**A passionate AI/ML Engineer || Python Developer**
+
+Email Me 👉 ✉️ **vinaykumarmandal847227@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** AI/ML
+- 📫 **How to reach me:** vinaykumarmandal847227@gmail.com
+- 😄 **Pronouns:** vinay
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vin.aykumar505) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-mandal-37b963391/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vinay_mandal62266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaykumarmandal847227@gmail.com) 
